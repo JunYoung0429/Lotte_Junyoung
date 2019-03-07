@@ -1,0 +1,335 @@
+.container,.circle-select{
+    position: relative;
+}     
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9,.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9,.text1,
+.text2,.text3,.text4,.text5,.text6,.text7,.text8,.text9,.parson,.unit,.vieu,.char,.dong,.so,.ettol,
+.elden,.lotte,.footer,.circle-box,.circle-text,.first,.second,.third,.four,.five,.six,.seven,.select,
+.girl,.men,.oversea,.living,.life,.title,.box1,.box2,.box3,.box4,.box5{
+    position: absolute;
+}
+.text1,.text2,.text3,.text4,.text5,.text6,.text7,.text8,.text9{
+    text-align: center;
+    color: white;
+    line-height: 27px;
+}
+.girl,.men,.oversea,.living,.life{
+    top: 270px;
+}
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8,.b9{
+    border: 1px solid white;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
+.first,.second,.third,.four,.five,.six,.seven{
+    font-size: 14px;
+}
+.cj1,.cj2,.cj3,.cj4,.cj5,.cj6,.cj7,.circle-box{
+    border-radius: 50%;
+}
+.img1,.img2,.img3{
+    top: 650px;
+}
+.b1:hover,.b2:hover,.b3:hover,.b4:hover,.b5:hover,.b6:hover,.b7:hover,.b8:hover,.b9:hover{
+    background: white;
+    color: rgba(141, 137, 137, 0.863);
+    transition: 0.6s;
+}
+.circle-box{
+    top:350px;
+    left: 400px;
+}
+
+.circle-text{
+    white-space: nowrap;
+    left: 400px;
+    top: 530px;
+}
+
+
+.circle-text a{
+    text-decoration: none;
+    color: black;
+}
+.img1{
+    left: 400px;
+}
+.text1{
+    top: 950px;
+    left: 460px;
+}
+.parson{
+    top: 910px;
+    left: 510px;
+}
+.b1{
+    top: 1050px;
+    left: 500px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+
+.img2{
+    left: 800px;
+}
+.text2{
+    top: 1050px;
+    left: 838px;
+}
+.unit{
+    top: 1000px;
+    left: 954px;
+}
+.b2{
+    top: 1150px;
+    left: 900px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.img3{
+    left: 1200px;
+}
+.text3{
+    top: 930px;
+    left: 1270px;
+    font-size: 16px;
+}
+.vieu{
+    top: 910px;
+    left: 1350px;
+}
+.b3{
+    top: 1050px;
+    left: 1300px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.text4{
+    top: 1590px;
+    left: 430px;
+}
+.img4{
+    top: 1180px;
+    left: 400px;
+}
+.char{
+    top: 1540px;
+    left: 530px;
+}
+.b4{
+    top: 1700px;
+    left: 490px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.img5{
+    top: 1280px;
+    left: 800px;
+}
+.text5{
+    top: 1530px;
+    left: 830px;
+}
+.dong{
+    top: 1480px;
+    left: 940px;
+}
+.b5{
+    top: 1630px;
+    left: 890px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.img6{
+    top: 1180px;
+    left: 1200px;
+}
+.text6{
+    top: 1570px;
+    left: 1250px;
+}
+.so{
+    top: 1470px;
+    left: 1330px;
+}
+.b6{
+    top: 1670px;
+    left: 1290px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.img7{
+    top: 1850px;
+    left: 400px;
+}
+.text7{
+    top: 2180px;
+    left: 440px;
+    font-size: 16px;
+}
+.ettol{
+    top: 2150px;
+    left: 545px;
+}
+.b7{
+    top: 2290px;
+    left: 490px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.img8{
+    top: 1770px;
+    left: 800px;
+}
+.text8{
+    left: 850px;
+    top: 2200px;
+}
+.elden{
+    left: 930px;
+    top: 2160px;
+}
+.b8{
+    top: 2330px;
+    left: 890px;
+    width: 150px;
+    padding: 15px;
+}
+
+
+.img9{
+    top: 1830px;
+    left: 1200px;
+}
+.text9{
+    top: 2130px;
+    left: 1270px;
+}
+.lotte{
+    top: 2100px;
+    left: 1340px;
+}
+.b9{
+    top: 2220px;
+    left: 1300px;
+    width: 150px;
+    padding: 15px;
+}
+
+.footer{
+    top: 2460px;
+    left: 930px;
+    font-size: 18px;
+}
+
+.first{
+    left: 50px;
+}
+.second{
+    left: 230px;
+}
+.third{
+    left: 395px;
+}
+.four{
+    left: 510px;
+}
+.five{
+    left: 720px;
+}
+.six{
+    left: 885px;
+}
+.seven{
+    left: 1055px;
+}
+
+.select a{
+    text-decoration: none;
+    color: rgb(146, 145, 145);
+    padding-right: 30px;
+    white-space: nowrap;
+}
+.girl{
+    left: 670px;
+}
+.men{
+    left: 800px;
+}
+.oversea{
+    left: 950px;
+}
+.living{
+    left: 1100px;
+}
+.life{
+    left: 1200px;
+}
+
+.title{
+    text-align: center;
+    top: 180px;
+    left: 800px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.box1,.box2,.box3,.box4,.box5{
+    border: 4px solid black;
+    margin: 0px;
+}   
+.box1{
+    height: 30px;
+    left: 930px;
+    top: 100px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.box2{
+    height: 60px;
+    left: 955px;
+    top: 70px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.box3{
+    height: 60px;
+    left: 980px;
+    top: 100px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.box4{
+    height: 60px;
+    left: 1005px;
+    top: 70px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.box5{
+    height: 30px;
+    left: 1030px;
+    top: 100px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
